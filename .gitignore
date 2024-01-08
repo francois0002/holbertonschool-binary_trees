@@ -4,7 +4,6 @@
 !*.*
 # Unignore all dirs
 !*/
-*-main.c
 /.devcontainer
 _putchar.c 
 .vscode
