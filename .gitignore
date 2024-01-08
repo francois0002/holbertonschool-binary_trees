@@ -1,0 +1,12 @@
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+*-main.c
+/.devcontainer
+_putchar.c 
+.vscode
+*.d
+binary_tree_print.c
