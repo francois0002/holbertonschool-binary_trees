@@ -9,10 +9,6 @@
 
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
-     /* error case parent NULL?*/
-     /* error case free memory?*/
-
-
 	binary_tree_t *new_node = NULL;
 
 	/*Allocate memory for the new node*/
