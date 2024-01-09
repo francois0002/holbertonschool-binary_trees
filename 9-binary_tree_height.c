@@ -3,8 +3,8 @@
 /**
 * binary_tree_height- measures the height of a binary tree
 * Description: distance from the chosen node to the farthest child
-* @tree: pointer to the root node of the tree to measure the height
-* Return: size_t height of the tree
+* @tree: pointer to the root node of the tree
+* Return: height of the tree
 */
 
 size_t binary_tree_height(const binary_tree_t *tree)
